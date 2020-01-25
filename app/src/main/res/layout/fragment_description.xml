@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="550dp"
+    android:layout_gravity="center"
+    tools:context=".DescriptionFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/korean_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="한국어"
+                android:textSize="45sp"
+                android:paddingTop="20dp"
+                android:paddingLeft="20dp"
+                android:paddingBottom="10dp"/>
+            <ImageButton
+                android:id="@+id/voice_button_description"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                style="@style/FloatingVolumeButtonDark"
+                android:src="@drawable/ic_volume_up_yellow"/>
+        </RelativeLayout>
+
+
+        <TextView
+            style="@style/TextAccent2"
+            android:id="@+id/roman_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="han-guk-uh"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"/>
+        <TextView
+            android:id="@+id/definition_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="17sp"
+            android:text="short definition" />
+        <TextView
+            style="@style/TextAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="20sp"
+            android:text="DESCRIPTION" />
+        <TextView
+            android:id="@+id/description_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="10dp"
+            android:textSize="17sp"
+            android:text="Coming Soon..."/>
+        <TextView
+            style="@style/TextAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXAMPLE SENTENCE"
+            android:textSize="20sp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+
+        <TextView
+            android:id="@+id/example_sentence_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Coming Soon..."
+            android:textSize="17sp" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom">
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/left_arrow"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_keyboard_arrow_left_white"
+            style="@style/FloatingImageDark"
+            android:layout_marginLeft="60dp"
+            android:layout_alignParentLeft="true" />
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/right_arrow"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_keyboard_arrow_right_white"
+            style="@style/FloatingImageDark"
+            android:layout_marginRight="60dp"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,105 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorDarkBlack</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:statusBarColor">@color/colorDarkBlack</item>
+    </style>
+
+    <style name="AppTheme.Dark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:statusBarColor">@color/colorDarkBlack</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    
+    <style name="imageButtonDark" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/material_grey</item>
+        <item name="android:tint">@color/colorRealWhite</item>
+    </style>
+    <style name="imageButton" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorRealWhite</item>
+        <item name="android:tint">@color/material_grey</item>
+    </style>
+
+    <style name="VolumeButtonDark" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/material_grey</item>
+    </style>
+    <style name="VolumeButton" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorRealWhite</item>
+    </style>
+
+    <style name="FloatingImageDark" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/floating_material_grey</item>
+        <item name="android:tint">@color/colorRealWhite</item>
+    </style>
+    <style name="FloatingImage" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorRealWhite</item>
+        <item name="android:tint">@color/material_grey</item>
+    </style>
+
+    <style name="FloatingVolumeButtonDark" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/floating_material_grey</item>
+    </style>
+    <style name="FloatingVolumeButton" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorRealWhite</item>
+    </style>
+
+    <style name="ToolBarDark" parent="android:Widget.Toolbar">
+        <item name="android:background">@color/colorBlack</item>
+    </style>
+    <style name="ToolBar" parent="android:Widget.Toolbar">
+        <item name="android:background">@color/colorOrange</item>
+    </style>
+
+    <style name="TextDark" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorRealWhite</item>
+    </style>
+    <style name="Text" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <style name="ToolbarImageButtonDark" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorBlack</item>
+        <item name="android:tint">@color/colorRealWhite</item>
+    </style>
+    <style name="ToolbarImageButton" parent="android:Widget.ImageButton">
+        <item name="android:background">@color/colorRealWhite</item>
+        <item name="android:tint">@color/material_grey</item>
+    </style>
+
+    <style name="TextAccent" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="TextAccent2" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+
+    <style name="TextAccent3" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+
+
+
+</resources>

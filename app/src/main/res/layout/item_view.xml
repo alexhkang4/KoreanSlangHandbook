@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp">
+        <TextView
+            style="@style/TextAccent"
+            android:id="@+id/lvl_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LEVEL:"
+            android:textSize="23sp"
+            android:layout_marginRight="10dp" />
+        <ImageView
+            android:id="@+id/pepper1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/pepper"/>
+        <ImageView
+            android:id="@+id/pepper2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/pepper"/>
+        <ImageView
+            android:id="@+id/pepper3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/pepper"/>
+        <ImageView
+            android:id="@+id/pepper4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/pepper"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/lvl_description_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="20dp"
+        android:text="DESCRIPTION"
+        android:textSize="20sp" />
+</LinearLayout>

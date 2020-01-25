@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/ToolBarDark">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/toolbar_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginLeft="15dp"
+            android:gravity="center"
+            android:text="Title here"
+            style="@style/TextDark"
+            android:layout_toRightOf="@id/toolbar_home_button"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/toolbar_info_button"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_info_outline_black"
+            style="@style/ToolbarImageButtonDark"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentRight="true" />
+
+        <ImageButton
+            android:id="@+id/toolbar_home_button"
+            style="@style/ToolbarImageButtonDark"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="-10dp"
+            android:src="@drawable/ic_home_black" />
+
+    </RelativeLayout>
+
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "korean": "꿀잼",
+      "roman": "kkul-jaem",
+      "definition": "very fun or funny",
+      "description": "\t꿀 means honey, and 잼 is a reduced form of 재미, which means fun or interesting.",
+      "exampleSentence": "이거 완전 꿀잼\n(This is so much fun!)"
+    },
+    {
+      "korean": "노잼",
+      "roman": "no-jaem",
+      "definition": "not fun or funny",
+      "description": "\tThe opposite of 꿀잼. 노 is the english word no, and 잼 here also means fun or interesting. Often used after someone makes a bad joke.",
+      "exampleSentence": "아 진짜 노잼\n(That wasn't funny) "
+    },
+    {
+      "korean": "모쏠",
+      "roman": "mo-ssol",
+      "definition": "single since birth",
+      "description": "\t모쏠 is short for 모태 솔로. 모태 means from birth, and 솔로 is the english word for solo.",
+      "exampleSentence": "너 모태솔로야?\n(Have you been single your whole life?)"
+    },
+
+    {
+      "korean": "심쿵",
+      "roman": "sim-koong",
+      "definition": "heartthrob",
+      "description": "\t심 means heart, and 쿵 represents the sound of your heard beating. It is used positively to mean that something has attracted you or something that is cute.",
+      "exampleSentence": "나 저 강아지 보고 심쿵했어\n(That dog is so cute!)"
+    },
+    {
+      "korean": "대박",
+      "roman": "dae-bak",
+      "definition": "jackpot",
+      "description": "\t대박 is a common term used when something cool, fun or good happens. It is also used as an intensifier",
+      "exampleSentence": "이번 공연 완전 대박이야\n(This concert was super cool!)"
+    },
+    {
+      "korean": "현웃",
+      "roman": "hyeon-oot",
+      "definition": "laughing out loud",
+      "description": "\t현웃 is short for 현실 웃음. 현실 means reality, and 웃음 means laughter. Commonly used in texts to show that you actually laughed out loud.",
+      "exampleSentence": "나 현웃터졌어\n(I actually laughed out loud)"
+    },
+    {
+      "korean": "멘붕",
+      "roman": "men-boong",
+      "definition": "mental breakdown",
+      "description": "\t멘붕 is short for 멘탈 붕괴. 멘탈 is the english word mental, and 붕괴 means collapsed. Commonly used when something bad happened and you don't know what to do",
+      "exampleSentence": "나 거의 멘붕이야\n(I almost had a mental breakdown)"
+    },
+    {
+      "korean": "돌직구",
+      "roman": "dol-jik-gu",
+      "definition": "very direct",
+      "description": "\t돌 means rock, and 직구 means fastball(baseball). Commonly used to describe words or actions that are very direct",
+      "exampleSentence": "돌직구 날리지 마\n(Don't be too direct)"
+    },
+    {
+      "korean": "간지",
+      "roman": "gan-ji",
+      "definition": "look cool, stylish",
+      "description": "\t간지 is a Jeju dialect for 횃대 (coat hanger). Commonly used to describe people with good sense of style",
+      "exampleSentence": "너 가방 좀 간지난다\n(Your bag looks really cool)"
+    },
+    {
+      "korean": "강추",
+      "roman": "gang-choo",
+      "definition": "recommendation",
+      "description": "\t강추 is short for 강한(strong) 추천(recommendation). Used when you want to recommend product or activities to others.",
+      "exampleSentence": "이 회사 제품은 진짜 강추\n(I really recommend this company's products)"
+    },
+    {
+      "korean": "고딩",
+      "roman": "go-ding",
+      "definition": "high school student",
+      "description": "\t고딩 is short for 고등학생(high school student). -딩 can be used with elementary school students(초딩), middle school students(중딩), etc.",
+      "exampleSentence": "나는 고딩일 때가 제일 힘들었어\n(High school was the hardest time for me)"
+    },
+    {
+      "korean": "깬다",
+      "roman": "ggaen-da",
+      "definition": "to break an image",
+      "description": "\t깬다 literally means to break. Commonly used to mean breaking a good image.",
+      "exampleSentence": "저 남자 자꾸 방귀뀌니까 확 깬다\n(His image was ruined because he kept farting)"
+    },
+    {
+      "korean": "노가다",
+      "roman": "no-ga-da",
+      "definition": "manual labor",
+      "description": "\t노가다 comes from the japanes word for labor. Commonly used to refer to work or activities that require a lot of manual labor",
+      "exampleSentence": "여름방학에 노가다만 뛰었어\n(All I did this summer was manual labor)"
+    },
+    {
+      "korean": "돌싱",
+      "roman": "dol-sing",
+      "definition": "divorced and single",
+      "description": "\t돌싱 is short for 돌아온 (back to) 싱글 (single). Used to refer to people who has divorced and is single now.",
+      "exampleSentence": "돌싱들만을 위한 어플이 있어\n(There's an app only for divorced singles)"
+    },
+    {
+      "korean": "바가지 쓰다",
+      "roman": "ba-ga-ji sseu-da",
+      "definition": "be ripped off",
+      "description": "\t바가지를 쓰다 literally means to wear 바가지 (bowl) on your head.  However it is only used to mean to be ripped off.",
+      "exampleSentence": "나 옷가게에서 바가지 썼어\n(I was ripped off at the clothing store)"
+    },{
+      "korean": "뽀록",
+      "roman": "ppo-lok",
+      "definition": "fluke",
+      "description": "\t뽀록 comes from the japanese word for fluke. Commonly used when someone with low skill shows good performance.",
+      "exampleSentence": "뽀록이네\n(That was a fluke)"
+    },
+    {
+      "korean": "쌍수",
+      "roman": "ssang-su",
+      "definition": "double eyelid surgery",
+      "description": "\t쌍수 is short for 쌍꺼풀(double eyelid) 수술(surgery). Used to refer to the surgery to get double eyelids.",
+      "exampleSentence": "나 어제 쌍수했어\n(I did my double eyelid surgery yesterday)"
+    },
+    {
+      "korean": "쌩얼",
+      "roman": "ssaeng-eol",
+      "definition": "bare face",
+      "description": "\t쌩얼 is short for 생(bare) 얼굴(face). Used to refer to face without any makeup.",
+      "exampleSentence": "나 오늘 쌩얼이야\n(I didn't wear any makeup today)"
+    },
+    {
+      "korean": "썰렁",
+      "roman": "sseol-leong",
+      "definition": "lame, not funny",
+      "description": "\t썰렁하다 literally means chilly. Used when someone spoils the mood with a lame joke.",
+      "exampleSentence": "너의 개그는 썰렁해\n(Your joke is lame)"
+    },
+    {
+      "korean": "썸",
+      "roman": "sseom",
+      "definition": "romantic relationship but not quite dating yet",
+      "description": "\t썸 is comes from the english word for something. Used to refer to a relationship between two people who aren't quite dating but are romantically closer than most people.",
+      "exampleSentence": "우리 썸타는 중이야\n(We have something going on between us)"
+    },
+    {
+      "korean": "잉여",
+      "roman": "ing-yeo",
+      "definition": "a loser",
+      "description": "\t잉여 literally means leftover. However, it is used to refer to a person with no money, no house, no job, etc.",
+      "exampleSentence": "나는 오늘 잉여롭게 집에서 쉬었어\n(I was a couch potato today)"
+    },
+    {
+      "korean": "지못미",
+      "roman": " ji-mot-mi",
+      "definition": "feel sorry",
+      "description": "\t지못미 is short for 지키주지 못해서 미안해 (sorry for not saving you). Used to express that you feel sorry for what happened to someone else.",
+      "exampleSentence": "지못미\n(I'm sorry for what happened)"
+    },
+    {
+      "korean": "쪽팔리다",
+      "roman": "jjok-pal-li-da",
+      "definition": "embarrassed",
+      "description": "\t쪽팔리다 is commonly used when you are embarrassed. Not as polite as the synonyms 창피하다 or 부끄럽다.",
+      "exampleSentence": "바지를 안입고 밖에 나가서 쪽팔렸어\n(I was ashamed because I went outside with no pants on)"
+    }
+  ]
+}

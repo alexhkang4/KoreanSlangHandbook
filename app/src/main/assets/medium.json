@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "korean": "고자",
+      "roman": "go-ja",
+      "definition": "castrated man",
+      "description": "\t고자 means eunuch. The word became popular after the line 내가 고자라니 from the TV show 야인시대.",
+      "exampleSentence": "아니 내가 고자라니!\n(No way I'm a eunuch!)"
+    },
+    {
+      "korean": "더럽게",
+      "roman": "deo-rub-ge",
+      "definition": "very, really",
+      "description": "\t더럽게 literally means dirty. Commonly used as an intensifier, and is used mostly by younger generations.",
+      "exampleSentence": "진짜 너 더럽게 못생겼다\n(You are REALLY ugly)"
+    },
+    {
+      "korean": "꼴초",
+      "roman": "kkol-cho",
+      "definition": "heavy smoker",
+      "description": "\t꼴초/골초 is used commonly to refer to a heavy smoker",
+      "exampleSentence": "쟤는 군대 갔다 오더니 꼴초가 됐어\n(He became a heavy smoker after serving in the military)"
+    },
+    {
+      "korean": "꼰대",
+      "roman": "kkon-dae",
+      "definition": "a person with outdated mindset with an aggressive attitude",
+      "description": "꼰대 is usually older and in a higher social hierarchy who impose on others because they think they are always right.",
+      "exampleSentence": "우리 사장은 완전 꼰대야\n(Our boss is a grumpy fogey)"
+    },
+    {
+      "korean": "노답",
+      "roman": "no-dab",
+      "definition": "stupid and stubborn person/situation",
+      "description": "\t노(no)답(solution) is used to refer to a situation/people where it/they can't be solved/helped",
+      "exampleSentence": "지금 상황이 진짜 노답이야\n(We're in a really bad situation right now) "
+    },
+    {
+      "korean": "무뇌",
+      "roman": "moo-noe",
+      "definition": "someone who doesn't think or acts dumb",
+      "description": "\t무(doesn't exist)뇌(brain) is used when someone who acts or talks like he does not have a brain.",
+      "exampleSentence": "걔 무뇌충이야\n(He's got no brains)"
+    },
+    {
+      "korean": "변태",
+      "roman": "byeon-tae",
+      "definition": "pervert",
+      "description": "\tThe word 변태 is often used to tease people. Used often in a not serious situation.",
+      "exampleSentence": "너 변태냐?\n(Are you a pervert?)"
+    },
+    {
+      "korean": "싸이코",
+      "roman": "ssa-i-ko",
+      "definition": "psycho",
+      "description": "\tThis word is the exact same word as the english word psycho.",
+      "exampleSentence": "너 싸이코냐?\n(Are you psycho?)"
+    },
+    {
+      "korean": "양아치",
+      "roman": "yang-a-chi",
+      "definition": "bully, thug, scumbag",
+      "description": "\tThis word can be used to describe someone who is rebellious, a punk, wannabe gangsta, player, bully etc.",
+      "exampleSentence": "너 남친 완전 양아치더라\n(Your boyfriend is a real punk)"
+    },
+    {
+      "korean": "허접",
+      "roman": "heo-jeob",
+      "definition": "mental breakdown",
+      "description": "\tThis word is used to express something of poor quality or someone who has low skill level",
+      "exampleSentence": "너 신발이 좀 허접해 보인다\n(Your shoes look a little trash)"
+    },
+    {
+      "korean": "극혐",
+      "roman": "geug-hyeom",
+      "definition": "extreme hatred towards something",
+      "description": "\t극혐 is short for 극한(extreme) 혐오(hatred). Commonly used even if the hatred is not extreme.",
+      "exampleSentence": "아 먹으면서 쩝쩝거리는거 극혐이야\n(I hate when people chew with their moth open)"
+    },
+    {
+      "korean": "똥개",
+      "roman": "ddong-gae",
+      "definition": "mutt",
+      "description": "\t똥개 literally means amutt, but it is often used to call someone stupid in an endearing way.",
+      "exampleSentence": "야 이 똥개야!\n(Hey you silly!)"
+    }
+  ]
+}

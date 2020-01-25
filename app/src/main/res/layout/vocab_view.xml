@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/voice_button"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_volume_up_yellow"
+        style="@style/VolumeButtonDark"
+        android:focusable="true"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentRight="true"/>
+    <TextView
+        android:layout_marginTop="8dp"
+        android:id="@+id/vocab_korean"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="한국어"
+        android:textSize="20sp"
+        android:paddingLeft="20dp"
+        android:layout_alignParentLeft="true"/>
+    <TextView
+        style="@style/TextAccent2"
+        android:id="@+id/vocab_roman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="han-gug-eo"
+        android:textSize="14sp"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="20dp"
+        android:layout_below="@id/vocab_korean"/>
+    <TextView
+        style="@style/TextAccent"
+        android:paddingBottom="8dp"
+        android:id="@+id/vocab_definition"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="korean"
+        android:layout_below="@id/vocab_roman"
+        android:textSize="16sp"
+        android:paddingLeft="20dp"
+        android:layout_alignParentLeft="true"/>
+
+</RelativeLayout>
